@@ -1,0 +1,10 @@
+.idea
+.vscode
+.DS_Store
+npm-debug.log
+yarn-error.log
+/node_modules/**
+**/node_modules
+**/gitlab/**
+**/db.conf.json
+.idea/*
