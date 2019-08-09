@@ -31,9 +31,16 @@ console.log(c); //b
 
 
 
-//问题：对象也可以实现此功能，为什么还要增加枚举？枚举类型的属性值都是【只读】的，不会被中途篡改，相比于object更加安全
+//问题：对象也可以实现此功能，为什么还要增加枚举？
+// 枚举类型的属性值都是【只读】的，不会被中途篡改，相比于object更加安全
 // ENV.dev = 1; //error TS2540: Cannot assign to 'dev' because it is a read-only property.
 
 
 
 //总结：【数字型枚举】是ts本意，最常用
+
+
+//枚举类型的value只能是number或string，不能是其他
+// enum Status {
+//     success = {code: 1, desc: 'err'}
+// }
