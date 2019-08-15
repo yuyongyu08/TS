@@ -1,6 +1,6 @@
 "use strict";
 /*
-* 为值提供一种统一的描述
+* TypeScript的核心原则之一是对值所具有的结构进行类型检查，接口的作用就是为这些类型命名
 **/
 function printLabel(labelObj) {
     console.log(labelObj.label);
