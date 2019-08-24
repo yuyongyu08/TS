@@ -1,59 +1,76 @@
-#### 1. 基本类型（完成）
-    
-    1.Boolean
-    2.Number
-    3.String
-    4.Array
-    5.Tuple
-    6.Enum
-    7.Any
-    8.Void
-    9.Null
-    10.Undefined
-    11.Never
-    12.Object
-    13.类型断言
-    
-#### 2. 变量声明（完成）
+### 1. 基本类型（完成）
+  
+1.[Boolean](./src/1_basic-types/0_ES.ts)
 
-    1.var
-    2.let
-    3.const
-    4.Destructuring
+2.[Number](./src/1_basic-types/0_ES.ts)
+
+3.[String](./src/1_basic-types/0_ES.ts)
+
+4.[Array](./src/1_basic-types/0_ES.ts)
+
+5.[Tuple](./src/1_basic-types/1_Tuple.ts)
+
+6.[Enum](./src/1_basic-types/2_Enum.ts)
+
+7.[Any](./src/1_basic-types/3_Any.ts)
+
+8.[Void](./src/1_basic-types/4_Void.ts)
+
+9.[Null](./src/1_basic-types/0_ES.ts)
+
+10.[Undefined](./src/1_basic-types/0_ES.ts)
+
+11.[Never](./src/1_basic-types/5_Never.ts)
+
+12.[Object](./src/1_basic-types/0_ES.ts)
+
+13.[类型断言](./src/1_basic-types/6_Type-Assertions.ts)
+
+### 2. 变量声明（完成）
+
+1.[var](./src/2_variable-declarations/1_var.ts)
+
+2.[let](./src/2_variable-declarations/2_let.ts)
+
+3.[const](./src/2_variable-declarations/3_const.ts)
+
+4.[结构赋值](./src/2_variable-declarations/4_destructuring.ts)
     
-#### 3. 类
-    1. Class
-    2. Inheritance
-    3. Public、private、protected
-    4. Readonly
-    5. 访问器
-    6. 静态属性
-    7. 抽象类
-    8. 高级技巧
+### 3. 类
+   
+ 1.[对象类型接口](./src/3_interface/1_object-types/1_basic.ts)
+ 
+ 2.[函数类型接口](./src/3_interface/2_function-types.ts)
+ 
+ 3.[索引类型接口](./src/3_interface/3_index-types.ts)
+ 
+ 4.[类类型接口](./src/3_interface/4_class-types.ts)
+ 
+ 5.[混合类型接口](./src/3_interface/5_hybrid-types.ts)
+ 
+ 6.[继承接口](./src/3_interface/6_extend-interface.ts)
+ 
+ 7.[继承类](./src/3_interface/7_extend-class.ts)
+ 
+### 4. 类
     
-#### 4. 函数
-    1. 函数
-    2. 函数类型
-    3. 可选参数和默认参数
-    4. 剩余参数
-    5. this
-    6. 重载
-    7. 
-#### 5. 泛型
-#### 6. 枚举
-#### 7. 类型推断
-#### 8. 类型兼容
-#### 9. 高级类型
-#### 10. 标示
-#### 11. 迭代器和生成器
-#### 12. 模块
-#### 13. 命名空间
-#### 14. 命名空间和模块
-#### 15. 模块解析
-#### 16. 声明合并
-#### 17. JSX
-#### 18. 装饰器
-#### 19. 混入
-#### 20. 三斜线指令
-#### 21. JS文件类型检查
-#### 22. 工具类型
+### 5. 函数
+ 
+### 6. 泛型
+### 7. 枚举
+### 8. 类型推断
+### 9. 类型兼容
+### 10. 高级类型
+### 11. Symbols
+### 12. 迭代器和生成器
+### 13. 模块
+### 14. 命名空间
+### 15. 命名空间和模块
+### 16. 模块解析
+### 17. 声明合并
+### 18. JSX
+### 19. 装饰器
+### 20. 混入
+### 21. 三斜线指令
+### 22. JS文件类型检查
+### 23. 工具类型
