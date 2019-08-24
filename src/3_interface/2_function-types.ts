@@ -1,6 +1,6 @@
 
 /*
-* 函数型接口，就是定义了换一个函数【调用签名】:只有参数列表和返回值类型的函数定义
+* 函数型接口，就是定义了一个函数【调用签名】:只有参数列表和返回值类型的函数定义
 */
 interface SearchFunction {
     (source: string, substring: string): boolean  //参数列表里的每个参数都需要名字和类型
