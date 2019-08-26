@@ -36,7 +36,7 @@
 
 4.[结构赋值](./src/2_variable-declarations/4_destructuring.ts)
     
-### 3. 类
+### 3. 接口
    
  1.[对象类型接口](./src/3_interface/1_object-types/1_basic.ts)
  
