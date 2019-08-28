@@ -53,6 +53,9 @@
  7.[继承类](./src/3_interface/7_extend-class.ts)
  
 ### 4. 类
+1.[继承](./src/4_class/1_extends.ts)
+
+2.[修饰符：public、private、protected、readonly](./src/4_class/2_modifiers.ts)
     
 ### 5. 函数
  
