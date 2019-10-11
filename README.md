@@ -36,7 +36,7 @@
 
 4.[结构赋值](./src/2_variable-declarations/4_destructuring.ts)
     
-### 3. 接口
+### 3. 接口（完成）
    
  1.[对象类型接口](./src/3_interface/1_object-types/1_basic.ts)
  
@@ -53,6 +53,9 @@
  7.[继承类](./src/3_interface/7_extend-class.ts)
  
 ### 4. 类
+1.[继承](./src/4_class/1_extends.ts)
+
+2.[修饰符：public、private、protected、readonly](./src/4_class/2_modifiers.ts)
     
 ### 5. 函数
  
