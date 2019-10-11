@@ -14,5 +14,5 @@ search = function (src, subStr) { //1.函数的参数名不需要与接口里定
 console.log(search('hello world!', 'll')); //true
 console.log(search('hello world!', 'aa')); //false
 
-// console.log(search('hello world!', 123)); //Argument of type '123' is not assignable to parameter of type 'string'.
+console.log(search('hello world!', 123)); //Argument of type '123' is not assignable to parameter of type 'string'.
 
