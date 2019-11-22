@@ -9,3 +9,4 @@ var ExtendInterface;
     square.width = 10;
     square.sideLength = 10;
 })(ExtendInterface || (ExtendInterface = {}));
+//# sourceMappingURL=6_extend-interface.js.map

@@ -50,3 +50,4 @@ var ExtendClass;
     //     }
     // }
 })(ExtendClass || (ExtendClass = {}));
+//# sourceMappingURL=7_extend-class.js.map

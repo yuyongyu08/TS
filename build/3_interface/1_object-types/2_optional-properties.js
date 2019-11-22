@@ -14,3 +14,4 @@ console.log(createSquare({ color: 'blue', width: 15 }));
 * 1、提前定义可能出现的值
 * 2、防止使用不存在的值【Object是做不到的】
 **/ 
+//# sourceMappingURL=2_optional-properties.js.map

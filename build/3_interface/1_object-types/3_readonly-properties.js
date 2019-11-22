@@ -19,3 +19,4 @@ console.log(arr1);
 * 【属性】使用readonly
 * 【变量】使用const
 **/ 
+//# sourceMappingURL=3_readonly-properties.js.map

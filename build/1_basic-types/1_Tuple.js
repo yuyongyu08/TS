@@ -10,3 +10,4 @@ x = ['hello', 18];
 // x[2] = 'world'; //error TS2322: Type '"world"' is not assignable to type 'undefined'.
 x.push('world');
 console.log(x);
+//# sourceMappingURL=1_Tuple.js.map

@@ -43,3 +43,4 @@ var Extends;
     s.sayName();
     s.sayHello();
 })(Extends || (Extends = {}));
+//# sourceMappingURL=1_extends.js.map

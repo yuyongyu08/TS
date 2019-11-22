@@ -16,3 +16,4 @@ notSure.abc = 123;
 notSure.ifItExists();
 var prettySure = {};
 // prettySure.toFixs(); //error TS2339: Property 'toFixs' does not exist on type 'Object'
+//# sourceMappingURL=3_Any.js.map

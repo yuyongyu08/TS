@@ -51,3 +51,4 @@ console.log(c); //b
 // enum Status {
 //     success = {code: 1, desc: 'err'}
 // }
+//# sourceMappingURL=2_Enum.js.map

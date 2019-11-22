@@ -23,3 +23,4 @@ var strLength = something.length;
 //语法2：as
 var strLength1 = something.length;
 //注意：JSX中只能用as
+//# sourceMappingURL=6_Type-Assertions.js.map

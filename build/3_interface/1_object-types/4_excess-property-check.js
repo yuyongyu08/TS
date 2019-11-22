@@ -28,3 +28,4 @@ var Interface;
     var squareOptions = { colour: 'red', width: 10 };
     var mySquare = createMySquare(squareOptions);
 })(Interface || (Interface = {}));
+//# sourceMappingURL=4_excess-property-check.js.map

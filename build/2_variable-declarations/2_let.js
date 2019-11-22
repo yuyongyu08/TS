@@ -21,3 +21,4 @@ function f(condition, x) {
     return x;
 }
 //3、块状作用域会形成屏蔽（shadowing，在多个内嵌作用域中引入相同的变量名），不建议使用
+//# sourceMappingURL=2_let.js.map

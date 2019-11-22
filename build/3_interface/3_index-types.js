@@ -39,3 +39,4 @@ var Dog = /** @class */ (function (_super) {
 }(Animal));
 var myReadonlyStringArray = ['foo', 'bar'];
 // myReadonlyStringArray[1] = 'baz'; //Index signature in type 'ReadonlyStringArray' only permits reading
+//# sourceMappingURL=3_index-types.js.map

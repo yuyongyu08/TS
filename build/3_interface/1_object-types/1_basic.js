@@ -11,3 +11,4 @@ printLabel(myLabel);
 * 接口的类型检查对属性顺序没有要求，只要属性是否存在已经属性的类型有要求
 **/
 var labelObject;
+//# sourceMappingURL=1_basic.js.map

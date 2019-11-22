@@ -7,3 +7,4 @@ var myArray = [1, 2, 3];
 // myArray = [4,5,6]; //error TS2588: Cannot assign to 'myArray' because it is a constant.
 myArray.push(4);
 console.log(myArray.length); //4
+//# sourceMappingURL=3_const.js.map

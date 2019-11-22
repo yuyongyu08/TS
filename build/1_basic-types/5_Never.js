@@ -13,3 +13,4 @@ function error(msg) {
     throw Error(msg);
 }
 error('something wrong!');
+//# sourceMappingURL=5_Never.js.map

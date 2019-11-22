@@ -25,3 +25,4 @@ for (var i = 0; i < 10; i++) {
 //3、变量提升
 // a++;
 var a;
+//# sourceMappingURL=1_var.js.map

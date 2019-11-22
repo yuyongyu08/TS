@@ -17,3 +17,4 @@ voidVar = undefined;
 // voidVar = null; //null也不行了？官网上说可以的...
 // voidVar = 123; //error TS2322: Type '123' is not assignable to type 'void'
 // voidVar = 'abc'; //error TS2322: Type '"abc"' is not assignable to type 'void'
+//# sourceMappingURL=4_Void.js.map

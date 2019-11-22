@@ -23,3 +23,4 @@ var person = {
 };
 var personName = person.name;
 console.log(personName);
+//# sourceMappingURL=4_destructuring.js.map

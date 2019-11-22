@@ -11,3 +11,4 @@ var counter = getCounter();
 counter(10);
 counter.interval = 234;
 counter.reset();
+//# sourceMappingURL=5_hybrid-types.js.map

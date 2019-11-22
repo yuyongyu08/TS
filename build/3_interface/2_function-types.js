@@ -6,3 +6,4 @@ search = function (src, subStr) {
 console.log(search('hello world!', 'll')); //true
 console.log(search('hello world!', 'aa')); //false
 // console.log(search('hello world!', 123)); //Argument of type '123' is not assignable to parameter of type 'string'.
+//# sourceMappingURL=2_function-types.js.map

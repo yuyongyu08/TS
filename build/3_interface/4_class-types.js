@@ -10,3 +10,4 @@ var Clock = /** @class */ (function () {
     return Clock;
 }());
 var clock = new Clock(12, 0, 0);
+//# sourceMappingURL=4_class-types.js.map

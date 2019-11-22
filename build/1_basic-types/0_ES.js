@@ -36,3 +36,4 @@ createObj(null);
 // createObj(42);
 // createObj('abc');
 // createObj(undefined);
+//# sourceMappingURL=0_ES.js.map
